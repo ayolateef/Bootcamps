@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "pwa-chrome",
+      "name": "http://{{URL}}/api/v1/auth/forgotpassword ",
+      "request": "launch",
+      "url": "http://{{URL}}/api/v1/auth/forgotpassword "
+    }
+  ]
+}
